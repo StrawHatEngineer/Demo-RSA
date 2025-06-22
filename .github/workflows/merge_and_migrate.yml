@@ -8,6 +8,7 @@ on:
       - README.md
       - Contributing.md
       - .github/**
+      - '**/*.whl'
   workflow_dispatch:
     inputs:
       branch:
