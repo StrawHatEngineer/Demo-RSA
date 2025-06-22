@@ -1,0 +1,23 @@
+{
+    "app_name": "CICD Build App",
+    "app_version": "0.0.1",
+    "created_at_ms": 1742318302000,
+    "deployed_solution_id": "b6cf94d3-d446-429b-a756-92733966de6a",
+    "description": "",
+    "human_review_level": "doc_based",
+    "human_review_mode": "ON",
+    "id": "0195aa43-73aa-78b7-b980-65464d8527ac",
+    "last_run_job_id": null,
+    "last_run_status": null,
+    "last_run_timestamp_ns": null,
+    "metric_alerts": null,
+    "name": "CICD Build App",
+    "notification_emails": null,
+    "owner": "vinay.thapa_instabase.com",
+    "retention_settings": {},
+    "review_within_sec": null,
+    "state": "ACTIVE",
+    "updated_at_ms": 1742318302000,
+    "webhooks": null,
+    "workspace": "CICD"
+}
