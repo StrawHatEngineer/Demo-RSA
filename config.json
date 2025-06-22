@@ -12,7 +12,7 @@
         "dependencies": []
     },
     "target": {
-        "org": "velocitymortgage-1",
+        "org": "velocitymortgage",
         "workspace": "vinay.thapa.velocity_instabase.com"
     },
     "settings": {
