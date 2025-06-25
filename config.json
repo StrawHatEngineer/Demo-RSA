@@ -18,6 +18,10 @@
     "settings": {
         "rebuild": true
     },
+    "proxy": {
+        "http": "http://${PROXY_USER}:${PROXY_PASSWORD}@${PROXY_SERVER}:${PROXY_PORT}",
+        "https": "http://${PROXY_USER}:${PROXY_PASSWORD}@${PROXY_SERVER}:${PROXY_PORT}"
+    },
     "regression": {},
     "release_notes": "v0.0.1"
 }
